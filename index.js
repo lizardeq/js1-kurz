@@ -1,8 +1,9 @@
 // Import stylesheets
 import './style.css';
-import './podminka.js';
-import './ukol3.js';
-import './cykly.js';
+//import './podminka.js';
+//import './ukol3.js';
+//import './cykly.js';
+import ukol4.js;
 // Tady zaciname
 console.log('start');
 /* 
