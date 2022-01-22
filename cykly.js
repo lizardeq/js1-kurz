@@ -34,10 +34,11 @@ let kolikrat = Number(prompt('Kolikrat chces pozdravit?'));
 for(let i = 0; i < kolikrat; i++) {
   console.log('Ahoj');
 }
-*/
+
 
 let i=0;
 while(i < kolikrat) {
   console.log('Cus');
   i++;
 }
+*/
