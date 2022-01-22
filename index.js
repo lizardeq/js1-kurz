@@ -45,6 +45,7 @@ console.log(odpoved);
 Number("445");
 */
 
+/*
 let jeZima = true;
 let svitiSlunicko = true;
 let jeNadNulou = false;
@@ -64,3 +65,4 @@ import './ukol2.js';
 // Write Javascript code!
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
+*/
