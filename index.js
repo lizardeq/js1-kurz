@@ -66,3 +66,6 @@ import './ukol2.js';
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 */
+
+let a = 5;
+console.log(a);
