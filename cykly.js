@@ -28,18 +28,16 @@ for(let i = 0; i < 6; i++) {
 
 
 console.log('KONEC');
-
-let kolikrat = prompt('Kolikrat chces pozdravit?');
-
+*/
+let kolikrat = Number(prompt('Kolikrat chces pozdravit?'));
+/*
 for(let i = 0; i < kolikrat; i++) {
   console.log('Ahoj');
-  i++;
 }
-
+*/
 
 let i=0;
 while(i < kolikrat) {
   console.log('Cus');
   i++;
 }
-*/
