@@ -28,9 +28,9 @@ for(let i = 0; i < 6; i++) {
 
 
 console.log('KONEC');
-*/
+
 let kolikrat = Number(prompt('Kolikrat chces pozdravit?'));
-/*
+
 for(let i = 0; i < kolikrat; i++) {
   console.log('Ahoj');
 }
